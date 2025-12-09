@@ -1,3 +1,6 @@
 # Week 4
 
-[Here](chords.xml) I have attached an xml file of chords I extracted from my transcribed score. 
+[Here](chords.xml) I have attached a file of the chords I extracted from my transcribed score. 
+
+
+[Here](ChordAnalysis.xml) I have attached the harmonic analysis of my chords.
