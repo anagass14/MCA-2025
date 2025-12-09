@@ -10,3 +10,6 @@ below is a ...
 
 below is a scatter plot...
 ![scatter plot graph](scatterplot.png) 
+
+below is a pitch histogram 
+![pitch histogram](pitchhistogram.png) 
