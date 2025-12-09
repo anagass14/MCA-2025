@@ -1,5 +1,8 @@
 # Week 4
 
+## Task 1
+
+## Task 2
 [Here](chords.xml) I have attached a file of the chords I extracted from my transcribed score. 
 
 
