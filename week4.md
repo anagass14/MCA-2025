@@ -4,3 +4,6 @@
 
 
 [Here](ChordAnalysis.xml) I have attached the harmonic analysis of my chords.
+
+below is a ...
+![plot graph](pianorollofpitches.png) 
