@@ -1,7 +1,8 @@
 # Week 3
 ## Task 1
-You can find the MusicXML file here 
-You can find the MEI file here
+You can find the MusicXML file [Here](New_Week_2_Score__Avril_14th.mxl)
+
+You can find the MEI file [Here](meiscore.mei)
 
 
 ## Task 2
