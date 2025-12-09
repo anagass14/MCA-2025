@@ -7,3 +7,6 @@
 
 below is a ...
 ![plot graph](pianorollofpitches.png) 
+
+below is a scatter plot...
+![scatter plot graph](scatterplot.png) 
