@@ -11,3 +11,4 @@ I think one challege to working with music and music related data might be that 
 My theme could show these challenges because ambient music as a genre doesn’t always follow traditional structures like clear formats, track credits, or mainstream distribution. A lot of ambient music is self-released or posted on platforms like Bandcamp or YouTube, which makes the data harder to examine. Because many artists in this genre work independently, the data around releases is often fragmented. This makes curation difficult and affects how the music is discovered and understood.
 
 #### Part 3
+When it comes to descriptive, acoustic and notated data, I think I will purposefully aim to focus on analysing more well known ambient artists such as Aphex Twin. Im doing this so I am more likely to be able to find data relevant to my theme, such as scores on MuseScore, and mp3 files on the Internet Archive. 
