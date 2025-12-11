@@ -6,5 +6,5 @@ You can find the MEI file [Here](meiscore.mei)
 
 
 ## Task 2
-I wasnt able to insert the my scores mei using the veriovio application, however i below is a screenshot of the result.
+To access my score using the verovio application click [here](verovio.html). I have also attached a screenshot of the result below. 
 ![photograph of mei results](meiphoto.png) 
